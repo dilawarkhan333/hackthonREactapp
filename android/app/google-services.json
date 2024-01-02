@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153599258479",
+    "project_id": "donation-de168",
+    "storage_bucket": "donation-de168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153599258479:android:ffdd7becd21bee7f29429a",
+        "android_client_info": {
+          "package_name": "com.fnlhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkOgRsXnde_8BAaNOR3UapFAY3gI4Jk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
